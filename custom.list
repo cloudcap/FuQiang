@@ -1,0 +1,5 @@
+# 自定义规则
+#PROCESS-NAME,Telegram.exe
+#PROCESS-NAME,org.telegram.messenger
+DOMAIN-SUFFIX,hostloc.com
+DOMAIN-SUFFIX,yattazen.com
